@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Michael Scott 👔
 
-<!--
-**best-boss/best-boss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Regional Manager at Dunder Mifflin Scranton.
+World's Best Boss (self-verified, mug-certified).
 
-Here are some ideas to get you started:
+## About me
+- Working on `threat-level-midnight` (film + website)
+- Learning: everything, I'm basically a genius
+- Ask me about: management, improv, my screenplay
+- Fun fact: I declared bankruptcy by saying it out loud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelScott_WorldsBestBoss)
