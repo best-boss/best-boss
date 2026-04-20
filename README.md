@@ -10,4 +10,4 @@ World's Best Boss (self-verified, mug-certified).
 - Fun fact: I declared bankruptcy by saying it out loud
 
 ## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelScott_WorldsBestBoss)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=best-boss)
